@@ -2,6 +2,7 @@ using System;
 
 class Program {
   public static void Main (string[] args) {
+    //first lyric
     string firstLyricsLineOne = "Oh, well imagine / ";
     string firstLyricsLineTwo = "As I'm pacing the pews in a church corridor / ";
     string firstLyricsLineThree = "And I can't help but to hear / ";
